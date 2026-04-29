@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,35:0F172A,70:1D4ED8,100:22D3EE&text=Fernando%20Martinez&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:0B1220,35:0F172A,70:1D4ED8,100:22D3EE&text=Fernando%20Martinez&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=18" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Backend-Oriented+Full+Stack+Developer;Open+to+Internship+Opportunities;Passionate+about+software+architecture+and+modern+technologies;Focused+on+building+clean%2C+scalable+and+maintainable+solutions)](https://git.io/typing-svg)
 
@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" />
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Fernand0martinez&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+
 </div>
 
 ---
@@ -24,7 +28,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:2563EB,100:0F172A&height=3&section=header"/>
 </p>
 
-## <span style="color:#22D3EE;">👨‍💻 About Me</span>
+<div align="left">
+  <img src="https://img.shields.io/badge/About%20Me-06B6D4?style=for-the-badge&labelColor=0B1220&color=06B6D4" />
+</div>
+
+<br>
 
 Hello! I'm **Fernando Martinez**, a **Systems Engineering student** from Costa Rica currently in the **final year of my bachelor’s degree**.
 
@@ -40,7 +48,11 @@ At the moment, I am especially interested in **internship opportunities** where 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:22D3EE&height=3&section=header"/>
 </p>
 
-## <span style="color:#38BDF8;">🎯 Professional Profile</span>
+<div align="left">
+  <img src="https://img.shields.io/badge/Professional%20Profile-3B82F6?style=for-the-badge&labelColor=0B1220&color=3B82F6" />
+</div>
+
+<br>
 
 - **Backend-Oriented Full Stack Developer**
 - Strong interest in **backend logic**, **software structure**, and **problem-solving**
@@ -48,7 +60,13 @@ At the moment, I am especially interested in **internship opportunities** where 
 - Familiar with **Agile methodologies** and **project planning practices**
 - Motivated by continuous learning and modern software development
 
-### <span style="color:#22D3EE;">Main Areas of Interest</span>
+<br>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Main%20Areas%20of%20Interest-2563EB?style=for-the-badge&labelColor=0B1220&color=2563EB" />
+</div>
+
+<br>
 
 - Backend Development
 - Software Architecture
@@ -65,17 +83,28 @@ At the moment, I am especially interested in **internship opportunities** where 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:1D4ED8,100:0F172A&height=3&section=header"/>
 </p>
 
-## <span style="color:#60A5FA;">🛠️ Tech Stack</span>
+<div align="left">
+  <img src="https://img.shields.io/badge/Tech%20Stack-8B5CF6?style=for-the-badge&labelColor=0B1220&color=8B5CF6" />
+</div>
+
+<br>
 
 <div align="center">
 
 ### Languages
+
 <img src="https://skillicons.dev/icons?i=java,js,ts,php,cs,cpp,kotlin,html&theme=dark" />
 
+<br><br>
+
 ### Frameworks & Libraries
+
 <img src="https://skillicons.dev/icons?i=spring,laravel,vue,react,dotnet&theme=dark" />
 
+<br><br>
+
 ### Tools & Platforms
+
 <img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio&theme=dark" />
 
 </div>
@@ -92,13 +121,19 @@ At the moment, I am especially interested in **internship opportunities** where 
 
 </div>
 
-### <span style="color:#22D3EE;">Knowledge Summary</span>
+<br>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Knowledge%20Summary-7C3AED?style=for-the-badge&labelColor=0B1220&color=7C3AED" />
+</div>
+
+<br>
 
 - **Backend:** Java, Spring Boot, PHP, Laravel, .NET, C#
 - **Frontend:** JavaScript, TypeScript, Vue, basic React, HTML5
 - **Mobile:** Kotlin, Android Studio, Jetpack Compose
 - **Databases:** MySQL, SQL Server, Oracle
-- **Development tools:** Git, GitHub, Postman
+- **Development Tools:** Git, GitHub, Postman
 
 ---
 
@@ -106,14 +141,19 @@ At the moment, I am especially interested in **internship opportunities** where 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:22D3EE&height=3&section=header"/>
 </p>
 
-## Practical Experience
+<div align="left">
+  <img src="https://img.shields.io/badge/Practical%20Experience-14B8A6?style=for-the-badge&labelColor=0B1220&color=14B8A6" />
+</div>
+
+<br>
 
 ### Academic Full Stack Development
 
 Experience participating in collaborative academic projects involving backend, frontend, databases, and structured development practices.
 
 **Technologies used:** Laravel, PHP, Vue, MySQL, GitHub, Jira  
-**Focus areas:** Backend development, application structure, database interaction, Agile collaboration
+**Focus areas:** Backend development, application structure, database interaction, Agile collaboration  
+**Project type:** Private academic team project
 
 ---
 
@@ -122,7 +162,8 @@ Experience participating in collaborative academic projects involving backend, f
 Experience working on academic mobile development projects with backend integration.
 
 **Technologies used:** Kotlin, Jetpack Compose, Android Studio, .NET, C#  
-**Focus areas:** Mobile development, backend services, MVVM and MVC architecture
+**Focus areas:** Mobile development, backend services, MVVM and MVC architecture  
+**Project type:** Private academic team project
 
 ---
 
@@ -133,7 +174,21 @@ Academic training focused on semantic HTML5 structure, web page organization, an
 **Technologies used:** HTML5, JavaScript  
 **Focus areas:** Web structure, semantic markup, frontend fundamentals
 
-## <span style="color:#38BDF8;">📚 Education & Training</span>
+<br>
+
+> Some academic projects are private due to team and institutional policies. Public portfolio projects are currently in progress.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:1D4ED8,100:0F172A&height=3&section=header"/>
+</p>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Education%20%26%20Training-F59E0B?style=for-the-badge&labelColor=0B1220&color=F59E0B" />
+</div>
+
+<br>
 
 - **Diploma in Software Development**
 - **Systems Engineering Student**
@@ -146,7 +201,11 @@ Academic training focused on semantic HTML5 structure, web page organization, an
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:22D3EE&height=3&section=header"/>
 </p>
 
-## <span style="color:#22D3EE;">📋 Agile Methodologies & Project Planning</span>
+<div align="left">
+  <img src="https://img.shields.io/badge/Agile%20%26%20Project%20Planning-10B981?style=for-the-badge&labelColor=0B1220&color=10B981" />
+</div>
+
+<br>
 
 I have experience working with **Agile methodologies** such as:
 
@@ -170,7 +229,11 @@ I also have knowledge in **project planning and analysis**, including:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:1D4ED8,100:0F172A&height=3&section=header"/>
 </p>
 
-## <span style="color:#60A5FA;">🌱 Currently Learning</span>
+<div align="left">
+  <img src="https://img.shields.io/badge/Currently%20Learning-84CC16?style=for-the-badge&labelColor=0B1220&color=84CC16" />
+</div>
+
+<br>
 
 - Advanced backend development
 - Software architecture
@@ -187,17 +250,21 @@ I also have knowledge in **project planning and analysis**, including:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:22D3EE&height=3&section=header"/>
 </p>
 
-## <span style="color:#22D3EE;">📈 GitHub Analytics</span>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fernando0martinez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0B1120&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando0martinez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=CBD5E1" />
+<div align="left">
+  <img src="https://img.shields.io/badge/GitHub%20Analytics-EC4899?style=for-the-badge&labelColor=0B1220&color=EC4899" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fernando0martinez&theme=tokyo-night&hide_border=true&area=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fernand0martinez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0B1120&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernand0martinez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=CBD5E1" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fernand0martinez&theme=tokyo-night&hide_border=true&area=true&bg_color=0B1120&color=22D3EE&line=38BDF8&point=FFFFFF" />
 </div>
 
 ---
@@ -206,11 +273,15 @@ I also have knowledge in **project planning and analysis**, including:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:1D4ED8,100:0F172A&height=3&section=header"/>
 </p>
 
-## <span style="color:#38BDF8;">🤝 Let's Connect</span>
+<div align="left">
+  <img src="https://img.shields.io/badge/Let's%20Connect-F43F5E?style=for-the-badge&labelColor=0B1220&color=F43F5E" />
+</div>
+
+<br>
 
 <div align="center">
 
-<a href="https://github.com/Fernando0martinez">
+<a href="https://github.com/Fernand0martinez">
   <img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
 
@@ -228,7 +299,7 @@ I also have knowledge in **project planning and analysis**, including:
 
 <div align="center">
 
-### <span style="color:#22D3EE;">Thanks for visiting my profile</span>
+### Thanks for visiting my profile
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B1220,35:0F172A,70:1D4ED8,100:22D3EE" />
 
