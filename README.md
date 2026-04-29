@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://github.com/Fernando0martinez">
+<a href="https://github.com/Fernand0martinez">
   <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
 <a href="https://www.linkedin.com/in/fernando-antonio-martinez-14b464309">
