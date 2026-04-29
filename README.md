@@ -244,31 +244,6 @@ I also have knowledge in **project planning and analysis**, including:
 - Clean code and maintainability
 - Professional documentation and portfolio improvement
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:22D3EE&height=3&section=header"/>
-</p>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/GitHub%20Analytics-EC4899?style=for-the-badge&labelColor=0B1220&color=EC4899" />
-</div>
-
-<br>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fernand0martinez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0B1120&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernand0martinez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=CBD5E1" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fernand0martinez&theme=tokyo-night&hide_border=true&area=true&bg_color=0B1120&color=22D3EE&line=38BDF8&point=FFFFFF" />
-</div>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:1D4ED8,100:0F172A&height=3&section=header"/>
 </p>
