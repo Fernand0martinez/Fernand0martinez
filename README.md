@@ -1,10 +1,8 @@
 <div align="center">
 
-# Fernando Martinez
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Fernand%20Martinez&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=18" />
 
-### Systems Engineering Student | Software Developer | Backend-Oriented Full Stack Developer
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1F2937,100:6B7280&height=180&section=header&text=Fernando%20Martinez&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3200&pause=900&color=E2E8F0&center=true&vCenter=true&width=850&lines=Backend-Oriented+Full+Stack+Developer;Passionate+about+modern+technologies+and+software+architecture;Focused+on+building+clean%2C+scalable+and+maintainable+solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,107 +10,96 @@
 
 ## About Me
 
-Hello! I'm Fernando Martinez, a Systems Engineering student from Costa Rica, currently in my final year of studies to obtain my bachelor's degree.
+Hello! I'm **Fernando Martinez**, a **Systems Engineering student** currently in my final year pursuing my **bachelor’s degree**.
 
-I already hold a diploma in Software Development, and I am focused on continuing to improve my technical and professional skills through academic projects, personal learning, and collaborative development experiences.
+I already hold a **Diploma in Software Development**, and I continue strengthening my technical background through academic projects, collaborative development, and continuous learning.
 
-I enjoy learning about modern technologies, software architecture, backend development, databases, and clean application structure. I am especially interested in building organized, scalable, and maintainable software solutions.
-
-I have experience working with backend technologies, relational databases, mobile development, and web development fundamentals, including semantic HTML5 structure.
+I enjoy learning about **modern technologies**, **software architecture**, **backend development**, **databases**, and **web development**. I am especially interested in building organized, scalable, and maintainable software solutions.
 
 ---
 
 ## Education
 
-- Diploma in Software Development
-- Systems Engineering student
-- Currently in the final year of my bachelor's degree
-- Web Page Design course focused on HTML5 and proper semantic structure
+- **Diploma in Software Development**
+- **Systems Engineering student**
+- Currently in the **final year** of my bachelor’s degree
+- Course in **Web Design with HTML5**, focused on semantic structure and best practices
 
 ---
 
 ## Tech Stack
 
-### Languages
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-1F2937?style=for-the-badge&logo=php&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-1F2937?style=for-the-badge&logo=csharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-1F2937?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5&logoColor=white)
+### Languages, Frameworks & Tools
 
-### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,dotnet,cs,kotlin,androidstudio,html,git,github,postman&perline=6" />
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-374151?style=for-the-badge&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-374151?style=for-the-badge&logo=laravel&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-374151?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-374151?style=for-the-badge&logo=fastapi&logoColor=white)
+</div>
 
-### Mobile Development
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-4B5563?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4B5563?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-4B5563?style=for-the-badge&logo=android&logoColor=white)
+<div align="center">
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-111827?style=for-the-badge&logo=oracle&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-1E293B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-334155?style=for-the-badge&logo=oracle&logoColor=white" />
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-020617?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-020617?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
-## Professional Focus
+## Professional Interests
 
-I am focused on improving my skills in:
-
-- Backend development
-- REST API design
-- Relational database management
-- Clean and maintainable code
-- Software architecture
-- Agile methodologies
-- Mobile application development
-- Web structure using semantic HTML5
-- Professional teamwork and version control workflows
+- Backend Development
+- REST API Design
+- Relational Databases
+- Software Architecture
+- Mobile Development
+- Web Development
+- Clean and Maintainable Code
+- Modern Software Practices
 
 ---
 
-## Experience & Academic Projects
+## Agile & Project Planning
 
-### Backend and Web Development
+I have worked with **Agile methodologies** such as **Scrum** and **Kanban**, applying them in academic and collaborative projects.
 
-I have worked on projects using Java with Spring Boot and PHP with Laravel, applying concepts such as controllers, services, repositories, models, database connection, and REST API development.
+I also have knowledge in key project planning activities, including:
+
+- Requirements gathering
+- Feasibility analysis
+- Scope definition
+- Risk identification
+- Backlog organization
+- User stories and acceptance criteria
+- Iterative development and team collaboration
+
+---
+
+## Experience Summary
+
+### Backend & Web Development
+I have worked on projects using **Java with Spring Boot** and **PHP with Laravel**, applying concepts such as controllers, services, repositories, models, and REST API development.
 
 ### Mobile Development
+I have participated in mobile development projects using **Android Studio**, **Kotlin**, **Jetpack Compose**, and **MVVM architecture**, while also working with backend services built in **.NET** and **C#**.
 
-I have experience working on mobile development projects using Android Studio, Kotlin, Jetpack Compose, and MVVM architecture. I have also worked with backend services using .NET and C# following MVC principles.
-
-### Agile Collaboration
-
-I have participated in academic projects using Agile methodologies such as Scrum and Kanban. These experiences have helped me understand teamwork, planning, backlog organization, user stories, acceptance criteria, and iterative development.
+### Databases
+I have experience working with relational databases such as **MySQL**, **SQL Server**, and **Oracle**.
 
 ---
 
 ## Currently Learning
 
-- Advanced backend development
-- Modern software architecture
-- Laravel and PHP ecosystem
-- Spring Boot with Java
-- Android development with Jetpack Compose
-- Clean code practices
-- Agile project management
-- Professional GitHub profile and documentation practices
+- Advanced Backend Development
+- Software Architecture
+- REST API Design
+- Clean Code Practices
+- Mobile Development with Jetpack Compose
+- Agile Project Management
+- Professional Documentation and GitHub Profile Optimization
 
 ---
 
@@ -120,20 +107,29 @@ I have participated in academic projects using Agile methodologies such as Scrum
 
 <div align="center">
 
-![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fernando0martinez&show_icons=true&theme=dark&hide_border=true&bg_color=020617&title_color=FFFFFF&text_color=D1D5DB&icon_color=9CA3AF)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fernando0martinez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando0martinez&layout=compact&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando0martinez&layout=compact&theme=dark&hide_border=true&bg_color=020617&title_color=FFFFFF&text_color=D1D5DB)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fernando0martinez&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## Connect with Me
+## Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernando0martinez)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white)](ADD-YOUR-LINKEDIN-LINK-HERE)
+<a href="https://github.com/Fernando0martinez">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="ADD-YOUR-LINKEDIN-LINK-HERE">
+  <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
@@ -141,6 +137,6 @@ I have participated in academic projects using Agile methodologies such as Scrum
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1F2937,100:6B7280&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1D4ED8,100:06B6D4" />
 
 </div>
