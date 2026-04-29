@@ -106,60 +106,32 @@ At the moment, I am especially interested in **internship opportunities** where 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:22D3EE&height=3&section=header"/>
 </p>
 
-## <span style="color:#22D3EE;">📂 Portfolio Highlights</span>
+## Practical Experience
 
-> **Note:** Replace the repository links below with your real project repositories.
+### Academic Full Stack Development
 
-### <span style="color:#38BDF8;">1) Gamification Platform</span>
+Experience participating in collaborative academic projects involving backend, frontend, databases, and structured development practices.
 
-A collaborative academic project focused on **gamification**, user interaction, and structured application development.  
-This project helped me strengthen my knowledge in **backend logic**, teamwork, agile organization, and modern development practices.
-
-**Tech Stack:** Laravel, PHP, Vue, MySQL, GitHub, Jira  
-**Focus:** Full stack development, collaboration, Agile workflow
-
-[🔗 Repository](#)
+**Technologies used:** Laravel, PHP, Vue, MySQL, GitHub, Jira  
+**Focus areas:** Backend development, application structure, database interaction, Agile collaboration
 
 ---
 
-### <span style="color:#38BDF8;">2) Mobile Application Project</span>
+### Mobile & Backend Integration
 
-A mobile development project where I worked with both **frontend and backend concepts**.  
-The frontend was developed using **Android Studio**, **Kotlin**, and **Jetpack Compose**, while the backend used **.NET** and **C#** following structured development approaches.
+Experience working on academic mobile development projects with backend integration.
 
-**Tech Stack:** Kotlin, Jetpack Compose, .NET, C#, Android Studio  
-**Focus:** Mobile development, backend integration, architecture
-
-[🔗 Repository](#)
+**Technologies used:** Kotlin, Jetpack Compose, Android Studio, .NET, C#  
+**Focus areas:** Mobile development, backend services, MVVM and MVC architecture
 
 ---
 
-### <span style="color:#38BDF8;">3) Backend & API-Oriented Projects</span>
+### Web Design Fundamentals
 
-I have also worked on projects using **Java with Spring Boot** and **PHP with Laravel**, applying concepts such as **controllers**, **services**, **repositories**, **models**, and **REST API development**.
+Academic training focused on semantic HTML5 structure, web page organization, and clean frontend foundations.
 
-**Tech Stack:** Java, Spring Boot, PHP, Laravel, MySQL  
-**Focus:** Backend development, APIs, database integration
-
-[🔗 Repository](#)
-
----
-
-### <span style="color:#38BDF8;">4) Web Design Practice</span>
-
-A web design practice project focused on **HTML5 structure**, semantic organization, and clean web page layout.  
-This helped me reinforce the foundations of well-structured frontend development.
-
-**Tech Stack:** HTML5, JavaScript  
-**Focus:** Semantic structure, web fundamentals, clean organization
-
-[🔗 Repository](#)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:1D4ED8,100:0F172A&height=3&section=header"/>
-</p>
+**Technologies used:** HTML5, JavaScript  
+**Focus areas:** Web structure, semantic markup, frontend fundamentals
 
 ## <span style="color:#38BDF8;">📚 Education & Training</span>
 
