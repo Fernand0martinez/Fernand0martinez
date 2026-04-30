@@ -60,7 +60,6 @@ For a more complete and visual presentation of my background, skills, education,
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:1D4ED8,100:22D3EE&height=3" />
 </p>
-
 ## 👨‍💻 About Me
 
 ```yaml
@@ -79,7 +78,17 @@ focus:
 currently_open_to:
   - Internship Opportunities
   - Junior Developer Opportunities
+```
 
+I am a **Systems Engineering student** from Costa Rica, currently in the final year of my bachelor's degree. I also hold a **Diploma in Software Development** and continue strengthening my technical profile through academic projects, collaborative development and continuous learning.
+
+My main focus is **backend-oriented full stack development**, especially building clean, organized, scalable and maintainable software solutions. I enjoy working with **REST APIs**, **relational databases**, backend logic and structured application architecture.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,45:1D4ED8,100:020617&height=3" />
+</p>
 I am a Systems Engineering student from Costa Rica, currently in the final year of my bachelor's degree. I also hold a Diploma in Software Development and continue strengthening my technical profile through academic projects, collaborative development and continuous learning.
 
 My main focus is backend-oriented full stack development, especially building clean, organized, scalable and maintainable software solutions. I enjoy working with REST APIs, relational databases, backend logic and structured application architecture.
