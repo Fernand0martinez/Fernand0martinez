@@ -19,24 +19,9 @@
   <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-1E3A5F?style=for-the-badge&logoColor=22D3EE&labelColor=1E3A5F" />
 </a>
 &nbsp;
-<a href="https://github.com/Fernand0martinez">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22D3EE" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/fernando-antonio-martinez-14b464309">
-  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE" />
-</a>
-&nbsp;
-<a href="mailto:fernando.martinez.developer@gmail.com">
-  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=22D3EE" />
-</a>
-
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internship%20%26%20Junior%20Roles-1D4ED8?style=for-the-badge&labelColor=020617" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Fernand0martinez&label=Profile%20Views&color=1D4ED8&style=for-the-badge" />
-
 </div>
 
 ---
@@ -55,10 +40,6 @@ For a complete and visual presentation of my background, skills, projects and co
 </a>
 
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:1D4ED8,100:22D3EE&height=2" />
 
 ## 👨‍💻 About Me
 
