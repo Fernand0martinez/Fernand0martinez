@@ -43,14 +43,6 @@ My focus is **backend-oriented full stack development** — building clean, orga
 ![MySQL](https://img.shields.io/badge/MySQL-020617?style=flat-square&logo=mysql&logoColor=22D3EE)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-020617?style=flat-square&logo=microsoftsqlserver&logoColor=22D3EE)
 ![Oracle](https://img.shields.io/badge/Oracle-020617?style=flat-square&logo=oracle&logoColor=22D3EE)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-020617?style=flat-square&logo=git&logoColor=22D3EE)
-![GitHub](https://img.shields.io/badge/GitHub-020617?style=flat-square&logo=github&logoColor=22D3EE)
-![Postman](https://img.shields.io/badge/Postman-020617?style=flat-square&logo=postman&logoColor=22D3EE)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-020617?style=flat-square&logo=androidstudio&logoColor=22D3EE)
-
 ---
 
 ## 🤝 Let's Connect
