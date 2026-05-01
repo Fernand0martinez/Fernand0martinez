@@ -62,22 +62,6 @@ For a complete and visual presentation of my background, skills, projects and co
 
 ## 👨‍💻 About Me
 
-```yaml
-name:       Fernando Martinez
-location:   Costa Rica 🇨🇷
-role:       Backend-Oriented Full Stack Developer
-education:
-  - Diploma in Software Development
-  - Systems Engineering Student — Final Year
-focus:
-  - Backend Development & REST API Design
-  - Relational Databases & Data Modeling
-  - Full Stack Web Development
-  - Agile Project Planning
-available:
-  - Internship Opportunities
-  - Junior Developer Positions
-```
 
 I'm a **Systems Engineering student** from Costa Rica, currently in the final year of my bachelor's degree. I also hold a **Diploma in Software Development** and continue strengthening my technical profile through academic projects, collaborative development and continuous learning.
 
@@ -121,55 +105,6 @@ My main focus is **backend-oriented full stack development** — building clean,
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:1D4ED8,100:22D3EE&height=2" />
 
-## 🎯 Professional Focus
-
-- Backend development with **Java, Spring Boot, PHP and Laravel**
-- REST API design and backend application architecture
-- Relational database modeling and SQL
-- Full stack development with **Laravel + Vue.js**
-- Mobile development with **Kotlin and Jetpack Compose**
-- Agile methodologies: **Scrum and Kanban**
-- Project planning: requirements gathering, feasibility analysis, scope definition and risk identification
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,45:1D4ED8,100:020617&height=2" />
-
-## 📚 Education & Training
-
-| Credential | Status |
-|---|---|
-| Systems Engineering — Bachelor's Degree | 🎓 Final Year |
-| Diploma in Software Development | ✅ Completed |
-| Web Page Design with HTML5 | ✅ Completed |
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:1D4ED8,100:22D3EE&height=2" />
-
-## 🚀 Portfolio & Projects
-
-> Most academic and collaborative projects are private due to team and institutional policies.
-> Public portfolio projects are currently in progress.
-
-Areas I'm building public projects around:
-
-- REST API development with Java and Spring Boot
-- Backend architecture and clean code practices
-- Database-driven applications
-- Laravel and Vue.js full stack development
-
-<div align="center">
-
-<br>
-
-<a href="https://fernand0martinez.github.io">
-  <img src="https://img.shields.io/badge/View%20Full%20Portfolio%20→-1E3A5F?style=for-the-badge&labelColor=1E3A5F&logoColor=22D3EE" />
-</a>
-
-</div>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,45:1D4ED8,100:020617&height=2" />
 
