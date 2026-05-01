@@ -10,47 +10,29 @@
 
 </div>
 
----
-
-<div align="center">
-
-<!-- Portfolio button: slightly lighter than the rest to stand out, but not neon -->
-<a href="https://fernand0martinez.github.io">
-  <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-1E3A5F?style=for-the-badge&logoColor=22D3EE&labelColor=1E3A5F" />
-</a>
-&nbsp;
-<br>
-
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internship%20%26%20Junior%20Roles-1D4ED8?style=for-the-badge&labelColor=020617" />
-</div>
-
 ## 👨‍💻 About Me
-
-
+<div align="center">
 I'm a **Systems Engineering student** from Costa Rica, currently in the final year of my bachelor's degree. I also hold a **Diploma in Software Development** and continue strengthening my technical profile through academic projects, collaborative development and continuous learning.
 
 My main focus is **backend-oriented full stack development** — building clean, organized, scalable and maintainable software. I enjoy working with **REST APIs**, **relational databases**, backend architecture and structured application design.
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,45:1D4ED8,100:020617&height=2" />
+</div>
 
-<div align="center">
 
 ## 🌐 Portfolio
+<div align="center">
 For a complete and visual presentation of my background, skills, projects and contact information, visit:
-
 ### [fernand0martinez.github.io](https://fernand0martinez.github.io)
-
 <a href="https://fernand0martinez.github.io">
   <img src="https://img.shields.io/badge/Open%20Full%20Portfolio%20→-1E3A5F?style=for-the-badge&logoColor=22D3EE&labelColor=1E3A5F" />
 </a>
-
 </div>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="letf">
 
 **Languages**
 <img src="https://skillicons.dev/icons?i=java,js,ts,php,cs,kotlin,html&theme=dark" />
@@ -68,8 +50,6 @@ For a complete and visual presentation of my background, skills, projects and co
 <img src="https://img.shields.io/badge/Oracle-020617?style=for-the-badge&logo=oracle&logoColor=22D3EE" />
 
 </div>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:1D4ED8,100:22D3EE&height=2" />
 
@@ -95,17 +75,8 @@ I'm actively looking for **internship and junior developer opportunities** where
 <a href="mailto:fernando.martinez.developer@gmail.com">
   <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=22D3EE" />
 </a>
-&nbsp;
-<a href="https://github.com/Fernand0martinez">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22D3EE" />
-</a>
-
 </div>
 
----
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:22D3EE,50:1D4ED8,100:020617" />
-
 </div>
