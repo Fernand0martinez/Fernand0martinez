@@ -24,23 +24,6 @@
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internship%20%26%20Junior%20Roles-1D4ED8?style=for-the-badge&labelColor=020617" />
 </div>
 
----
-
-<div align="center">
-
-## 🌐 Full Portfolio
-
-This GitHub profile provides a quick professional overview.
-For a complete and visual presentation of my background, skills, projects and contact information, visit:
-
-### [fernand0martinez.github.io](https://fernand0martinez.github.io)
-
-<a href="https://fernand0martinez.github.io">
-  <img src="https://img.shields.io/badge/Open%20Full%20Portfolio%20→-1E3A5F?style=for-the-badge&logoColor=22D3EE&labelColor=1E3A5F" />
-</a>
-
-</div>
-
 ## 👨‍💻 About Me
 
 
@@ -52,30 +35,34 @@ My main focus is **backend-oriented full stack development** — building clean,
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,45:1D4ED8,100:020617&height=2" />
 
+<div align="center">
+
+## 🌐 Portfolio
+For a complete and visual presentation of my background, skills, projects and contact information, visit:
+
+### [fernand0martinez.github.io](https://fernand0martinez.github.io)
+
+<a href="https://fernand0martinez.github.io">
+  <img src="https://img.shields.io/badge/Open%20Full%20Portfolio%20→-1E3A5F?style=for-the-badge&logoColor=22D3EE&labelColor=1E3A5F" />
+</a>
+
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
-
 <img src="https://skillicons.dev/icons?i=java,js,ts,php,cs,kotlin,html&theme=dark" />
-
-<br><br>
-
+<br>
 **Frameworks & Libraries**
-
 <img src="https://skillicons.dev/icons?i=spring,laravel,vue,react,dotnet&theme=dark" />
-
-<br><br>
-
+<br>
 **Tools & Platforms**
-
 <img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio&theme=dark" />
-
-<br><br>
+<br>
 
 **Databases**
-
 <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=22D3EE" />
 <img src="https://img.shields.io/badge/SQL%20Server-020617?style=for-the-badge&logo=microsoftsqlserver&logoColor=22D3EE" />
 <img src="https://img.shields.io/badge/Oracle-020617?style=for-the-badge&logo=oracle&logoColor=22D3EE" />
