@@ -25,12 +25,10 @@ My main focus is **backend-oriented full stack development** — building clean,
 <div align="center">
 For a complete and visual presentation of my background, skills, projects and contact information, visit:
  <br> 
-### [fernand0martinez.github.io](https://fernand0martinez.github.io)<br>
 <a href="https://fernand0martinez.github.io">
   <img src="https://img.shields.io/badge/Open%20Full%20Portfolio%20→-1E3A5F?style=for-the-badge&logoColor=22D3EE&labelColor=1E3A5F" />
 </a>
 </div>
-
 
 ## 🛠️ Tech Stack
 <div align="center">
