@@ -31,7 +31,6 @@ For a complete and visual presentation of my background, skills, projects and co
 </div>
 
 ## 🛠️ Tech Stack
-<div align="center">
 **Languages**
 <img src="https://skillicons.dev/icons?i=java,js,ts,php,cs,kotlin,html&theme=dark" />
 <br><br>
@@ -47,7 +46,6 @@ For a complete and visual presentation of my background, skills, projects and co
 <img src="https://img.shields.io/badge/SQL%20Server-020617?style=for-the-badge&logo=microsoftsqlserver&logoColor=22D3EE" />
 <img src="https://img.shields.io/badge/Oracle-020617?style=for-the-badge&logo=oracle&logoColor=22D3EE" />
 
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:1D4ED8,100:22D3EE&height=2" />
 
