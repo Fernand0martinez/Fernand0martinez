@@ -29,7 +29,7 @@ For a complete and visual presentation of my background, skills, projects and co
   <img src="https://img.shields.io/badge/Open%20Full%20Portfolio%20→-1E3A5F?style=for-the-badge&logoColor=22D3EE&labelColor=1E3A5F" />
 </a>
 </div>
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,45:1D4ED8,100:020617&height=2" />
 
 ## 🛠️ Tech Stack
 **Languages**<br>
@@ -49,8 +49,6 @@ For a complete and visual presentation of my background, skills, projects and co
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:1D4ED8,100:22D3EE&height=2" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,45:1D4ED8,100:020617&height=2" />
-
 ## 🤝 Let's Connect
 
 <div align="center">
