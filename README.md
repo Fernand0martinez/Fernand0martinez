@@ -20,9 +20,8 @@ My main focus is **backend-oriented full stack development** — building clean,
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,45:1D4ED8,100:020617&height=2" />
 </div>
 
-
-## 🌐 Portfolio
 <div align="center">
+## 🌐 Portfolio
 For a complete and visual presentation of my background, skills, projects and contact information, visit:
 ### [fernand0martinez.github.io](https://fernand0martinez.github.io)
 <a href="https://fernand0martinez.github.io">
@@ -30,19 +29,18 @@ For a complete and visual presentation of my background, skills, projects and co
 </a>
 </div>
 
+<div align="center">
 ## 🛠️ Tech Stack
-
-<div align="letf">
 
 **Languages**
 <img src="https://skillicons.dev/icons?i=java,js,ts,php,cs,kotlin,html&theme=dark" />
-<br>
+<br><br>
 **Frameworks & Libraries**
 <img src="https://skillicons.dev/icons?i=spring,laravel,vue,react,dotnet&theme=dark" />
-<br>
+<br><br>
 **Tools & Platforms**
 <img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio&theme=dark" />
-<br>
+<br><br>
 
 **Databases**
 <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=22D3EE" />
